@@ -3,7 +3,7 @@
 ### John Sebastian Martinez Zabala 20171020059
 ### Juan Sebastian Mancera Gaitan 20171020047
 
-#### Aplicación Web Amalisis de Datos 
+#### Aplicación Web Análisis de Datos 
 
 Esta aplicación esta enfocada a uso como herramienta en el análisis de datos, la aplicacion recibe un archivo.CSV y realizara las siguientes funciones:
 
@@ -34,6 +34,8 @@ Proyecto realizado en Python 3 mediante el uso del Framework Flask ,para su ejec
 #### Paradigmas de Programación
 
 Programación Funcional (Paradima declarativo): Las funciones de los calculos de tendencias centrales y de dispersión estan realizados según lo propuesto por la programación funcional, es decir no existen estados ni cambios de estado entre ellas  para  realizar el respectivo cálculo.
+
+![fun](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/funcional%7D.png)
 
 Programacion Orientado a Objetos  (Paradigma imperativo): Se hace uso de Clases, Atributos y Métodos en el código de la aplicación con sus respetivas dependencias. 
 ![clas1](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/Uml_app.jpg)
