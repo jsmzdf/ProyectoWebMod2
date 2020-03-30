@@ -33,11 +33,12 @@ Proyecto realizado en Python 3 mediante el uso del Framework Flask ,para su ejec
 
 #### Paradigmas de Programación
 
-Paradigma Funcional : Las funciones de los calculos de tendencias centrales y de dispersión estan realizados según lo propuesto por la programación funcional, es decir no existen estados ni cambios de estado entre ellas  para  realizar el respectivo cálculo.
+Programación Funcional (Paradima declarativo): Las funciones de los calculos de tendencias centrales y de dispersión estan realizados según lo propuesto por la programación funcional, es decir no existen estados ni cambios de estado entre ellas  para  realizar el respectivo cálculo.
 
-Paradigma Orientado a Objetos: Se hace uso de Clases, Atributos y Métodos en el código de la aplicación. 
+Programacion Orientado a Objetos  (Paradigma imperativo): Se hace uso de Clases, Atributos y Métodos en el código de la aplicación con sus respetivas dependencias. 
 ![clas1](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/Uml_app.jpg)
 
+Scripting : 
 
 
 
