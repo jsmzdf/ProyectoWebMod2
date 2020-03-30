@@ -48,7 +48,7 @@ Programación Funcional (Paradima declarativo): Las funciones de los calculos de
 
 ![fun](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/funcional%7D.png)
 
-Programacion Orientado a Objetos  (Paradigma imperativo): Se hace uso de Clases, Atributos y Métodos en el código de la aplicación con sus respetivas dependencias. 
+Programacion Orientado a Objetos  : Se hace uso de Clases, Atributos y Métodos en el código de la aplicación con sus respetivas dependencias. 
 ![clas1](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/Uml_app.jpg)
 
 Scripting :  Se hace uso de Jinja2 para realizar la integracion y comunicacion entre Python, HTML y archivos estáticos.
