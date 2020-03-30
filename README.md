@@ -3,7 +3,7 @@
 ### John Sebastian Martinez Zabala 20171020059
 ### Juan Sebastian Mancera Gaitan 20171020047
 
-#### Aplicacion Web Amalisis de Datos 
+#### Aplicación Web Amalisis de Datos 
 
 Esta aplicación esta enfocada a uso como herramienta en el análisis de datos, la aplicacion recibe un archivo.CSV y realizara las siguientes funciones:
 
