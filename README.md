@@ -25,11 +25,22 @@ Cada uno de los anteriores cálculara los aciertos y desaciertos obtenidos en la
 Proyecto realizado en Python 3 mediante el uso del Framework Flask ,para su ejecución necesita de la instalacion delas siguientes librerias propias de Python:
 
 -Numpy
+
 -Flask
+
 -Jinja2
+
 -Pandas
+
 -Scikit Learn
 
+En la parte del Front-End se hizo uso de tecnologias como:
+
+-Html
+
+-Css
+
+-Bootstrap
 
 #### Paradigmas de Programación
 
@@ -39,7 +50,6 @@ Programación Funcional (Paradima declarativo): Las funciones de los calculos de
 
 Programacion Orientado a Objetos  (Paradigma imperativo): Se hace uso de Clases, Atributos y Métodos en el código de la aplicación con sus respetivas dependencias. 
 ![clas1](https://github.com/jsmzdf/ProyectoWebMod2/blob/master/Uml_app.jpg)
-
 Scripting : 
 
 
